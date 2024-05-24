@@ -1,2 +1,3 @@
-# fingerprint-kernel
-Example of a kernel for molecular fingerprints and demonstration of usecases.
+# tanimoto-kernel
+
+Testing of usecases for a tanimoto kernel for molecular fingerprints.
